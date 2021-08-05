@@ -4,5 +4,5 @@
 
 Work | Date | Sign
 ---- | ---- | ----
-* This is Done | 33332 | rohandixit
-* What about this | 394u3 | rohandixit
+This is Done | 33332 | rohandixit
+What about this | 394u3 | rohandixit
